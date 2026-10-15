@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+# Prodigy Infotech CS Internship — Task 01
 
 # 🔐 Caesar Cipher Tool
 
