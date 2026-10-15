@@ -207,16 +207,4 @@ Contributions, suggestions, and improvements are welcome!
 3. Make your changes.
 4. Submit a pull request.
 
-## 📜 License
-
-This project is available for educational and learning purposes. You may add an MIT License or another appropriate open-source license to define the terms of reuse.
-
-## 👩‍💻 Author
-
-**Your Name**
-
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-
----
-
 ⭐ If you find this project useful, consider giving the repository a star!
